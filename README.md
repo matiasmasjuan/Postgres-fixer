@@ -2,11 +2,11 @@
 
 This is a small guide to fix some issues about postgres. Sometimes the services of postgres just throw an error and it's hard to know why.
 
-![alt text](image.png)
+![alt text1](images/image.png)
 
 The simplest solution for this is just to restart the services of postgres.
 
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 But even when you try to do this, it stills display an error.
 
@@ -31,4 +31,4 @@ brew services restart postgresql@14
 
 Now you can see the results with
 
-![alt text](image-2.png)
+![alt text](images/image-2.png)
